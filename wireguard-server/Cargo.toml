@@ -1,5 +1,5 @@
 [package]
-name = "quic-tunnel-server"
+name = "wireguard-server"
 version = "0.1.0"
 edition = "2021"
 
