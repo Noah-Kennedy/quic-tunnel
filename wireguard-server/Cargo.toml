@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 tokio = { version = "1.19.2", features = ["net", "rt", "macros", "sync", "io-util"] }
+smoltcp = "0.8.1"
